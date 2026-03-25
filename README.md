@@ -18,6 +18,7 @@ int main()
 }
 ```
 OUTPUT:
-<img width="802" height="348" alt="image" src="https://github.com/user-attachments/assets/d40d7dff-477a-4abe-bd0c-c0263af4a466" />
+ <img width="1005" height="381" alt="image" src="https://github.com/user-attachments/assets/9e08af9d-b8c3-4d8c-a8f5-5946eadd1fea" />
+
 RESULT:
 Thus the code run successfully!
